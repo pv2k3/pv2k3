@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Learning codin since 2020<br>📚 I'm currently learning Backend for Web Development<br>🎯 Goals: I want to learn as many languages i can and become  a great web dev<br>🎲</p>
+<p align="left">✨ Learning coding since 2020<br>📚 I'm currently learning Backend for Web Development<br>🎯 Goals: I want to learn as many languages i can and become  a great web dev<br></p>
 
 ###
 
