@@ -19,6 +19,10 @@
 ###
 
 <div align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png" height="40" alt="css logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="javascript logo"  />
