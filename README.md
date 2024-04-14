@@ -1,25 +1,25 @@
 <div>
-  <font face="Verdana" size="6" color="black"> <b>Github Profile</b> </font>
+  <h2>Github Profile</h2>
   <a href="#home" style="text-decoration: none">
-    <font face="Verdana" size="5" color="black"> Home </font>
-  </a>
+    <font face="Verdana" size="5"> Home </font>
+  </a>                  
   <span>|</span>
   <a href="#about" style="text-decoration: none">
-    <font face="Verdana" size="5" color="black"> About </font>
+    <font face="Verdana" size="5"> About </font>
   </a>
   <span>|</span>
   <a href="#projects" style="text-decoration: none">
-    <font face="Verdana" size="5" color="black"> Projects </font>
+    <font face="Verdana" size="5"> Projects </font>
   </a>
   <span>|</span>
   <a href="#contact" style="text-decoration: none">
-    <font face="Verdana" size="5" color="black"> Contact </font>
+    <font face="Verdana" size="5"> Contact </font>
   </a>
 </div>
 <br />
 <br />
 <div id="about">
-  <font face="Verdana" size="7"> About Me </font>
+  <h2>About Me</h2>
   <br />
   <font face="Verdana" size="4">
     Thanks for your interest, here is a quick story of me and this website.
@@ -43,45 +43,20 @@
 </div>
 <br /><br />
 <div id="projects">
-  <font face="Verdana" size="7" color="black"> Projects </font>
+  <h2>Projects</h2>
   <br />
-  <font face="Times New Roman" size="5" color="black">
-    <ul>
-      <li>BMI Calculator</li>
-      <li>
-        <hr color="#c2c0c3" />
-        Calculator
-      </li>
-      <li>
-        <hr color="#c2c0c3" />
-        Netflix Clone Frontend
-      </li>
-      <li>
-        <hr color="#c2c0c3" />
-        Tic Tac Toe Game
-      </li>
-      <li>
-        <hr color="#c2c0c3" />
-        Random Password Generator
-      </li>
-      <li>
-        <hr color="#c2c0c3" />
-        Snake Ladder Game
-      </li>
-      <li>
-        <hr color="#c2c0c3" />
-        Tic Tac Toe(GUI)
-      </li>
-      <li>
-        <hr color="#c2c0c3" />
-        File Organiser(GUI)
-      </li>
-    </ul>
-  </font>
+  1. BMI Calculator <br>
+  2. Calculator <br>
+  3. Netflix Clone Frontend <br>
+  4. Tic Tac Toe Game <br>
+  5. Random Password Generator <br>
+  6. Snake Ladder Game <br>
+  7. Tic Tac Toe(GUI) <br>
+  8. File Organiser(GUI) <br>
 </div>
 <br /><br />
-<div id="contact" align="center">
-  <font face="Verdana" size="7"> Contact </font>
+<div id="contact">
+  <h2>Contact</h2>
   <br />
   <font face="Verdana" size="4"> Name :</font>
   <font face="Verdana" size="4"> Priyanshu Verma </font>
