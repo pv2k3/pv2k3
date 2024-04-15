@@ -1,4 +1,4 @@
-<div>
+<div id="home">
   <h2>Github Profile</h2>
   <a href="#home" style="text-decoration: none">
     <font face="Verdana" size="5"> Home </font>
