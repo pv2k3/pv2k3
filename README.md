@@ -22,12 +22,6 @@
   <h2>About Me</h2>
   <br />
   <font face="Verdana" size="4">
-    Thanks for your interest, here is a quick story of me and this website.
-    <br />
-    <br />
-    Priyanshu Verma An University Of Lucknow student. He loves to solve
-    programming problems in most efficient ways.
-    <br />
     <br />
     I do my work mainly in C-Language, Python and JAVA. C++ and Data Structure
     and Algorithm are my stronger section. Besides these I know Web Development,
