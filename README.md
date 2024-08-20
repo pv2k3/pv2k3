@@ -47,6 +47,8 @@
   6. Snake Ladder Game <br>
   7. Tic Tac Toe(GUI) <br>
   8. File Organiser(GUI) <br>
+  9. URL SHORTENER <br>
+  10. E-commerce website <br>
 </div>
 <br /><br />
 <div id="contact">
