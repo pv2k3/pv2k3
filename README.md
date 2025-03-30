@@ -1,64 +1,15 @@
-<div id="home">
-  <h2>Github Profile</h2>
-  <a href="#home" style="text-decoration: none">
-    <font face="Verdana" size="5"> Home </font>
-  </a>                  
-  <span>|</span>
-  <a href="#about" style="text-decoration: none">
-    <font face="Verdana" size="5"> About </font>
-  </a>
-  <span>|</span>
-  <a href="#projects" style="text-decoration: none">
-    <font face="Verdana" size="5"> Projects </font>
-  </a>
-  <span>|</span>
-  <a href="#contact" style="text-decoration: none">
-    <font face="Verdana" size="5"> Contact </font>
-  </a>
-</div>
-<br />
-<br />
-<div id="about">
-  <h2>About Me</h2>
-  <br />
-  <font face="Verdana" size="4">
-    <br />
-    I do my work mainly in C-Language, Python and JAVA. C++ and Data Structure
-    and Algorithm are my stronger section. Besides these I know Web Development,
-    LINUX and database as well.
-    <br />
-    <br />
-    This readme page is basically one of my starter project which is built using
-    HTML only. Here one can also find ideas for projects in different languages.
-    Thanks again for reading this, because of people like you, it exists and
-    prospers!
-    <br />
-  </font>
-</div>
-<br /><br />
-<div id="projects">
-  <h2>Projects</h2>
-  <br />
-  1. BMI Calculator <br>
-  2. Calculator <br>
-  3. Netflix Clone Frontend <br>
-  4. Tic Tac Toe Game <br>
-  5. Random Password Generator <br>
-  6. Snake Ladder Game <br>
-  7. Tic Tac Toe(GUI) <br>
-  8. File Organiser(GUI) <br>
-  9. URL SHORTENER <br>
-  10. E-commerce website <br>
-</div>
-<br /><br />
-<div id="contact">
-  <h2>Contact</h2>
-  <br />
-  <font face="Verdana" size="4"> Name :</font>
-  <font face="Verdana" size="4"> Priyanshu Verma </font>
-  <br />
-  <br />
-  <font face="Verdana" size="4"> Email :</font>
-  <font face="Verdana" size="4"> vermapriyanshu001@gmail.com </font>
-</div>
-<div align="center"><h3><a href="#home">Top</a></h3></div>
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pv2k3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pv2k3&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pv2k3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pv2k3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=pv2k3&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
